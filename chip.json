@@ -14,10 +14,7 @@
     {
       "id": "CoefficientHz",
       "label": "Coefficient Hz",
-      "type": "range",
-      "min": 0,
-      "max": 10,
-      "step": 0.1
+      "type": "string"
     },
     {
       "id": "ExponentHz",
